@@ -31,11 +31,12 @@
 ---
 
 ### 🏆 Achievements & Certifications
-🏅 **Programming in Java** – NPTEL (IIT Kharagpur)  
-📜 **Data Analysis with Python** – IBM (Coursera)  
-📜 **Databases and SQL for Data Science with Python** – IBM  
-
-
+ **Programming in Java** – NPTEL (IIT Kharagpur)  
+ ** DSA with Java** – NPTEL (IIT Kharagpur)
+ **Data Analysis with Python** – IBM (Coursera)  
+ **Databases and SQL for Data Science with Python** – IBM  
+ **Data Analysis and Visualizations using PowerBI** – IBM 
+ **AI-ML (AWS) Virtual Internship** – Eduskills Foundations
 ---
 
 ### 💻 Coding Profiles
