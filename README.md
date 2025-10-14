@@ -19,7 +19,8 @@
 `React.js` • `HTML` • `CSS` • `Bootstrap` 
 
 #### 🧠 Data Science & Analytics
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `Streamlit`
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `Streamlit`  • `PowerBI` 
+
 
 #### 🗄️ Databases
 `MySQL`  • `MongoDB`
