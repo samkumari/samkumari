@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍🎓 About Me
-🎓 I’m a 3rd-year **B.Tech student at the Institute of Aeronautical Engineering (IARE), Dundigal, Hyderabad**, specializing in **Data Science**.  
+🎓 I’m a **B.Tech student at the Institute of Aeronautical Engineering (IARE), Dundigal, Hyderabad**, specializing in **Data Science**.  
 💡 Passionate about logic building, data-driven insights, and creating impactful solutions using AI & Web technologies.  
 🌱 Currently exploring **Machine Learning, Full Stack Development, and Data Analytics**.  
 ✨ Always eager to learn, collaborate, and contribute to innovative projects.
